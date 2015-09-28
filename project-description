@@ -59,7 +59,7 @@ Development Schedule:
 	Week 11: Continue writing application and corresponding tests
 		Technology: 
 	Week 12: Set up database and tables to store individual information (??)
-		Technology: Tomcat (?)
+		Technology: Tomcat, MySQL
 	Week 13: Create several new users and test the process
 		Technology:
 	Week 14: Create badge graphics and add them to database
