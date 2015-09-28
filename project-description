@@ -43,29 +43,29 @@ Database Administrator (DBA)
 
 Development Schedule:
 	Week 4: Set up version control
-		New technology: Github
+		Technology: Github
 	Week 5: Website shell will be built in HTML and CSS
-		New technology: SASS and Foundation - a responsive front end framework using SASS
+		Technology: JSP, SASS and Foundation - a responsive front end framework using SASS
 	Week 6: Add login authentication to the website
-		New technology: JAAS
+		Technology: JAAS
 	Week 7: Write pages for each career (how much interactivity will I want??)
-		New technology:  
+		Technology:  
 	Week 8:  Start writing application and corresponding tests
-		New technology: Log4J and JUnit
+		Technology: Log4J and JUnit
 	Week 9: Continue writing application and corresponding tests
-		New technology:
+		Technology:
 	Week 10: Continue writing application and corresponding tests
-		New technology:
+		Technology:
 	Week 11: Continue writing application and corresponding tests
-		New technology: 
+		Technology: 
 	Week 12: Set up database and tables to store individual information (??)
-		New technology: Tomcat (?)
+		Technology: Tomcat (?)
 	Week 13: Create several new users and test the process
-		New technology:
+		Technology:
 	Week 14: Create badge graphics and add them to database
-		New technology:
+		Technology:
 	Week 15: Create several new users and test test test
-		New technology:
+		Technology:
 	Week 16: Present project to the class
 	
 		
